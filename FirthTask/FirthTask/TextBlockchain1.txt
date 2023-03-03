@@ -1,0 +1,1 @@
+A blockchain is a distributed database or ledger that is shared among the nodes of a computer network.

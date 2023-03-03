@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/bin/Debug/net6.0/FirthTask
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/bin/Debug/net6.0/FirthTask.deps.json
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/bin/Debug/net6.0/FirthTask.runtimeconfig.json
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/bin/Debug/net6.0/FirthTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/bin/Debug/net6.0/FirthTask.pdb
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/FirthTask.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/FirthTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/FirthTask.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/FirthTask.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/FirthTask.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/FirthTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/refint/FirthTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/FirthTask.pdb
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/FirthTask.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/PracticalWork3/FirthTask/FirthTask/obj/Debug/net6.0/ref/FirthTask.dll

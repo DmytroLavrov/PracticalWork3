@@ -1,0 +1,1 @@
+As a database, a blockchain stores information electronically in digital format.
